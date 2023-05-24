@@ -58,5 +58,10 @@
       "name": "ChatGPT",
       "icon": "/apps/chatgpt.svg",
       "url": "https://chat.openai.com"
+    },
+    {
+      "name": "Messenger",
+      "icon": "/apps/messenger.png",
+      "url": "https://messenger.com"
     }
 ]
