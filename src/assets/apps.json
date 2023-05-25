@@ -93,5 +93,10 @@
       "name": "Y8",
       "icon": "/apps/y8.png",
       "url": "https://y8.com"
+    },
+    {
+      "name": "Cool Math Games",
+      "icon": "/apps/coolmath.png",
+      "url": "https://coolmathgames.com"
     }
 ]
