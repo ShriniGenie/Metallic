@@ -60,8 +60,8 @@
       "url": "https://chat.openai.com"
     },
     {
-      "name": "Messenger",
-      "icon": "/apps/messenger.png",
-      "url": "https://messenger.com"
+      "name": "ESPN",
+      "icon": "/apps/espn.png",
+      "url": "https://espn.com"
     }
 ]
