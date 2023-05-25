@@ -63,5 +63,15 @@
       "name": "GeForce Now",
       "icon": "/apps/geforcenow.png",
       "url": "https://play.geforcenow.com"
-    }
+    },
+    {
+      "name": "Paramount Plus",
+      "icon": "/apps/paramount.png",
+      "url": "https://paramountplus.com"
+    },
+    {
+      "name": "Instagram",
+      "icon": "/apps/instagram.png",
+      "url": "https://instagram.com"
+    }       
 ]
