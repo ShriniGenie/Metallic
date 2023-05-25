@@ -83,5 +83,14 @@
       "name": "Chess.com",
       "icon": "/apps/chess.png",
       "url": "https://chess.com"
-    }
+    },
+    {
+      "name": "Poki",
+      "icon": "/apps/chess.png",
+      "url": "https://poki.com"
+    },
+    {
+      "name": "Y8",
+      "icon": "/apps/y8.png",
+      "url": "https://y8.com"
 ]
