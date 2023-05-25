@@ -73,5 +73,15 @@
       "name": "Instagram",
       "icon": "/apps/instagram.png",
       "url": "https://instagram.com"
-    }       
+    },
+    {
+      "name": "Zoro.to",
+      "icon": "/apps/zoroto.png",
+      "url": "https://zoro.to"
+    },
+    {
+      "name": "Chess.com",
+      "icon": "/apps/chess.png",
+      "url": "https://chess.com"
+    }
 ]
