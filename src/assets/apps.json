@@ -108,5 +108,15 @@
       "name": "Quitt (Movies)",
       "icon": "/apps/quitt.png",
       "url": "https://quitt.net"
+    },
+    {
+      "name": "Telegram",
+      "icon": "/apps/telegram.png",
+      "url": "https://telegram.org"
+    },
+    {
+      "name": "Soundcloud",
+      "icon": "/apps/soundcloud.png",
+      "url": "https://soundcloud.com"
     }
 ]
