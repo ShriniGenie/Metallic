@@ -16,7 +16,7 @@
     },
     {
       "name": "Twitter",
-      "icon": "/apps/twitter.png",
+      "icon": "/apps/twitty.png",
       "url": "https://twitter.com/explore"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "name": "Zoro.to",
-      "icon": "/apps/zoroto.png",
+      "icon": "/apps/zary.png",
       "url": "https://zoro.to"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "name": "Poki",
-      "icon": "/apps/poki.png",
+      "icon": "/apps/ocean.png",
       "url": "https://poki.com"
     },
     {
@@ -105,13 +105,13 @@
       "url": "https://max.com"
     },
     {
-      "name": "Quitt (Movies)",
-      "icon": "/apps/quitt.png",
-      "url": "https://quitt.net"
+      "name": "FlixHQ",
+      "icon": "/apps/moonlight.png",
+      "url": "https://flixhq.to"
     },
     {
       "name": "Telegram",
-      "icon": "/apps/telegram.png",
+      "icon": "/apps/stars11.png",
       "url": "https://telegram.org"
     },
     {
