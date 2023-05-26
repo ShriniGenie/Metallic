@@ -98,5 +98,15 @@
       "name": "Cool Math Games",
       "icon": "/apps/coolmath.png",
       "url": "https://coolmathgames.com"
+    },
+    {
+      "name": "HBO Max",
+      "icon": "/apps/hbomax.png",
+      "url": "https://max.com"
+    },
+    {
+      "name": "Quitt (Movies)",
+      "icon": "/apps/quitt.png",
+      "url": "https://quitt.net"
     }
 ]
