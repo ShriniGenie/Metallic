@@ -118,5 +118,20 @@
       "name": "Soundcloud",
       "icon": "/apps/soundcloud.png",
       "url": "https://soundcloud.com"
+    },
+    {
+      "name": "Amazon",
+      "icon": "/apps/amazon.png",
+      "url": "https://amazon.com"
+    },
+    {
+      "name": "Firefox",
+      "icon": "/apps/firefox.png",
+      "url": "https://firefox.com"
+    },
+    {
+      "name": "Github",
+      "icon": "/apps/github.png",
+      "url": "https://github.com"
     }
 ]
