@@ -133,5 +133,20 @@
       "name": "Github",
       "icon": "/apps/github.png",
       "url": "https://github.com"
+    },
+    {
+      "name": "Replit",
+      "icon": "/apps/replit.png",
+      "url": "https://replit.com"
+    },
+    {
+      "name": "Fifa Rosters",
+      "icon": "/apps/fifa.png",
+      "url": "https://fifarosters.com"
+    },
+    {
+      "name": "ESPN",
+      "icon": "/apps/sports.png",
+      "url": "https://espn.com"
     }
 ]
