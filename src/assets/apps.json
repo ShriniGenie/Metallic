@@ -148,5 +148,10 @@
       "name": "ESPN",
       "icon": "/apps/sports.png",
       "url": "https://espn.com"
+    },
+    {
+      "name": "Snapchat",
+      "icon": "/apps/snapchat.png",
+      "url": "https://snapchat.com"
     }
 ]
