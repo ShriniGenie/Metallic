@@ -153,5 +153,15 @@
       "name": "Snapchat",
       "icon": "/apps/snapchat.png",
       "url": "https://snapchat.com"
+    },
+    {
+      "name": "Gmail",
+      "icon": "/apps/gmail.png",
+      "url": "https://gmail.com"
+    },
+    {
+      "name": "Tumblr",
+      "icon": "/apps/tumbler.png",
+      "url": "https://tumblr.com"
     }
 ]
